@@ -3,6 +3,7 @@
 <!--
 **kenshee2004/kenshee2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hi there! My name is Onoda Kenshee B. Edades
 
 Here are some ideas to get you started:
 
