@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Hello there! My name is Onoda Kenshee Edades, but you can either call me "Kenshee" or "Onoda." I am currently a 2nd Year Industrial Engineering student, on a mission to successfully traverse the seemingly difficult yet interesting path of the "Fundamentals of Data Science" course!</h3>
+<h3 align="left">Hello there! My name is Onoda Kenshee Edades, but you can either call me "Kenshee" or "Onoda." I am currently a 2nd Year Industrial Engineering student on a mission to successfully traverse the seemingly difficult yet interesting path of the "Fundamentals of Data Science" course!</h3>
 
 ###
 
